@@ -1,7 +1,8 @@
 Project-Daily
 =============
 
-Write one program a day, starting with simple problems.
-May be test programs to benefit other projects.
+My goal is to write at least one program a day to enhance my experience with coding and problem solving.
+
+Programs may be test programs to benefit other projects, or practice/learn some programming languages.
 
 Some tests may end up looking very messy. Sorry!
