@@ -1,4 +1,5 @@
 Project-Daily
 =============
 
-Write one program a day, starting with simple problems
+Write one program a day, starting with simple problems.
+May be test programs to benefit other projects.
