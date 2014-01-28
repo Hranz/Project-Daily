@@ -1,6 +1,6 @@
 /*
 	Programmers: Kristoffer Larson
-  Date: January 21, 2014
+  	Date: January 21, 2014
 
 	Description: 
 		Checks if two words are anagrams
