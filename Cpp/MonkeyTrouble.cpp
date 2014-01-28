@@ -1,5 +1,5 @@
 /*
-   Programmers: Kris Larson
+   Programmer: Kris Larson
    Date: January 19, 2014
    
    Description: Two monkeys are making trouble
