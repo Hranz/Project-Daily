@@ -1,6 +1,6 @@
 /*
 
-Programmers: Kris Larson
+Programmer: Kris Larson
 
 Description: C++ compiler test program
 */
