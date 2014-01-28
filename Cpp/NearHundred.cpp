@@ -1,3 +1,10 @@
+/*
+   Programmer: Kristoffer Larson
+   
+   Description: State if input values are within 10
+   	of 100 or 200.
+*/
+
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
