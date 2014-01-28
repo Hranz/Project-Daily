@@ -1,5 +1,5 @@
 /*
-   Programmers: Kris Larson
+   Programmer: Kristoffer Larson
    Date: January 23, 2014
    
    Description: Testing creation of a class, constructors,
