@@ -1,5 +1,5 @@
 /*
-   Programmers: Kris Larson
+   Programmer: Kris Larson
    Date: January 17, 2014
    
    Description: Removes chosen character in desired word, or 
