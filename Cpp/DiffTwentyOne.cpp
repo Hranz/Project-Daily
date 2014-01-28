@@ -1,3 +1,10 @@
+/*
+   Programmer: Kristoffer Larson
+   
+   Description: Finds the absolute difference
+   	between 21 and some input value.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 using namespace std;
