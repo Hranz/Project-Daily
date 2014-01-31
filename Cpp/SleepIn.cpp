@@ -1,3 +1,11 @@
+/*
+   Programmer: Kristoffer Larson
+   
+   Description: Determines whether to sleep in
+   	or not.
+
+*/
+
 
 #include <iostream>
 using namespace std;
