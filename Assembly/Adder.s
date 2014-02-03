@@ -1,3 +1,9 @@
+@Programmer: Kristoffer Larson
+@Description: Using an embest board plugin, this 
+@  reads button presses and adds numbers to a running
+@  sum. The sum can be reset when a black button is 
+@  pressed.
+
 .equ SWI_SETSEG8, 0x200 @display on 8 Segment
 .equ SWI_CheckBlack, 0x202 @check Black button
 .equ SWI_CheckBlue, 0x203 @check press Blue button
