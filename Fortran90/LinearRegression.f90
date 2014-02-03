@@ -1,4 +1,6 @@
 !Programmer:Kristoffer Larson
+!Date: February 2, 2014
+!
 !Description: This was originally given in one of my classes
 !  and I decided to adjust it so that it would run as a 
 !  Fortran90 program. There are some adjustments that need 
