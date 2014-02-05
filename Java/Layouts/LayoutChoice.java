@@ -10,6 +10,8 @@
    
 */
 
+import javax.swing.*;
+
 public class LayoutChoice {
   
    public static void main(String[] args) {
