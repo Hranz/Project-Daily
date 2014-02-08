@@ -64,7 +64,7 @@ public class GUI_Frame2 extends JPanel {
    protected void paintComponent(Graphics g) { //Paint the image on the frame
       super.paintComponent(g);
       if (img != null) {
-         g.drawImage(img, 0, 0, this);
+         g.drawImage(img, 100, 100, this);
       }
    }
    

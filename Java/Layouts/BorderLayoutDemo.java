@@ -54,7 +54,7 @@ public class BorderLayoutDemo {
         }
          
         JButton button = new JButton("Button 1 (PAGE_START)");
-        pane.add(button, BorderLayout.PAGE_START);
+       // pane.add(button, BorderLayout.PAGE_START);
          
         //Make the center component big, since that's the
         //typical usage of BorderLayout.
@@ -65,11 +65,11 @@ public class BorderLayoutDemo {
         button = new JButton("Button 3 (LINE_START)");
         pane.add(button, BorderLayout.LINE_START);
          
-        button = new JButton("Long-Named Button 4 (PAGE_END)");
-        pane.add(button, BorderLayout.PAGE_END);
+       // button = new JButton("Long-Named Button 4 (PAGE_END)");
+       // pane.add(button, BorderLayout.PAGE_END);
          
-        button = new JButton("5 (LINE_END)");
-        pane.add(button, BorderLayout.LINE_END);
+        //button = new JButton("5 (LINE_END)");
+        //pane.add(button, BorderLayout.LINE_END);
     }
      
     /**
