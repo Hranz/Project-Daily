@@ -48,7 +48,7 @@ int main() {
       scanf("%d", &c[i - 1]);
    }
    
-   printf("\nThere is/are %d way(s) to make change for %d cents.\n", countingChange(c, change) / 2, change);
+   printf("\nThere is/are %d way(s) to make change for %d cents.\n", countingChange(c, change) / 16, change);
       
    return 0;
 }
