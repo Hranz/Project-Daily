@@ -48,7 +48,7 @@ void write_file(string sLine) {
 int main () {    
    string sLine;
    
-   //write_file(sLine);
+   write_file(sLine);
    read_file(sLine);   
    
    return 0;
